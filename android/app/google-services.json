@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "422115479644",
+    "project_id": "idonefit-dev",
+    "storage_bucket": "idonefit-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422115479644:android:86095bd3a6ed9b9f8a1699",
+        "android_client_info": {
+          "package_name": "com.donetest.idonefit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422115479644-cafc970mb871d0rj363an1vvcip738su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClp4PsUS4Q2mwmqfW-9aclyUC1rq_WbUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422115479644-cafc970mb871d0rj363an1vvcip738su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
